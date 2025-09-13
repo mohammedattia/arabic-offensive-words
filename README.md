@@ -1,6 +1,8 @@
 # An LLM-Based Approach to the Creation of an Arabic Offensive Language Lexicon from Annotated Corpora
 arabic-offensive-words: List of Arabic offensive, vulgar, slur and profane words
 
+Research on offensive language is fundamental to understanding the profound sensitivity of language and its real-world use and impact. This work helps identify what specific terms are harmful. This can be used for the developing an effective hate speech detection systems, enabling automated tools and human moderators to accurately differentiate between general vulgarity and targeted, dehumanizing attacks that incite harassment. Furthermore, this research is vital for guiding appropriate language use for learners; by clearly mapping the pragmatic and cultural boundaries of taboo terms, it provides essential guardrails for both human students learning a new language and AI models in training, helping them navigate social nuances respectfully and avoid causing severe inadvertent offense.
+
 This report details the creation of a comprehensive, categorized lexicon of offensive, vulgar, and slur terms in Arabic. The methodology utilized a novel approach, leveraging the analytical power of Large Language Models (LLMs) to extract specific offensive terms from existing, academically-vetted datasets.
 
 This process ensures the resulting lexicon is grounded in attested examples of toxic language used "in the wild" on social media.
