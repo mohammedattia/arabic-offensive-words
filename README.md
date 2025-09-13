@@ -1,6 +1,5 @@
 # arabic-offensive-words
 List of Arabic offensive, vulgar, slur and profane words
-<div dir="ltr">
 
 # An LLM-Based Approach to the Creation of an Arabic Offensive Language Lexicon from Annotated Corpora
 
@@ -94,6 +93,8 @@ Here are several foundational scientific papers that specifically discuss the *c
 # Offensive Word Categories
 ### 1. Explicit Profanity, Sexual Acts, and Genitalia
 (Explicit sexual acts, taboo body parts, and related slang)
+<div dir="ltr">
+
 
 * **أحا / احه (Aha / Ehe):** An interjection of frustration/shock, considered vulgar as it allegedly mimics an orgasm.
 * **اير / ايور (Eyr / Iyūr):** Vulgar term for penis (Singular / Plural).
@@ -124,6 +125,8 @@ Here are several foundational scientific papers that specifically discuss the *c
 * **متناك / متناكة / منايك / منيوك (Mitnāk / Mitnāka / Manāyik / Manyūk):** "Fucked" (passive, implying sodomy) / Female version / Plural / Variant.
 * **نيك / نياكة / انكح (Nīk / Niyāka / Inkaḥ):** To fuck / The act of fucking / Command to fuck.
 * **ثدي / بز / بزاز / حلمة (Thadī / Bizz / Bizāz / Ḥalama):** Breast / Tit / Tits / Nipple.
+
+</div>
 
 ### 2. Sex Work, Pimping, and Promiscuity Insults
 (Terms for sex workers, their clients, pimps, or those considered promiscuous)
@@ -367,8 +370,5 @@ Here are several foundational scientific papers that specifically discuss the *c
 * **يلعن أبو أمك (Yilʿan abu ummak):** "Curse your maternal grandfather."
 * **ياتك ضربة / ياتك داهية (Yātak ḍarba / Yātak dahya):** "May a strike hit you" / "May calamity take you."
 
-
-
-</div>
 
 
