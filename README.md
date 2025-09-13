@@ -1,5 +1,6 @@
 # arabic-offensive-words
 List of Arabic offensive, vulgar, slur and profane words
+<div dir="ltr">
 
 # An LLM-Based Approach to the Creation of an Arabic Offensive Language Lexicon from Annotated Corpora
 
@@ -365,5 +366,9 @@ Here are several foundational scientific papers that specifically discuss the *c
 * **يلعن / لعنة (Yilʿan / Laʿna):** (May God) curse... / A curse.
 * **يلعن أبو أمك (Yilʿan abu ummak):** "Curse your maternal grandfather."
 * **ياتك ضربة / ياتك داهية (Yātak ḍarba / Yātak dahya):** "May a strike hit you" / "May calamity take you."
+
+
+
+</div>
 
 
