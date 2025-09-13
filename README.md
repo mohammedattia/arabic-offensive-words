@@ -1,7 +1,7 @@
 # arabic-offensive-words
 List of Arabic offensive, vulgar, slur and profane words
 
-# Introduction: Methodology for Lexicon Collection and Organization
+# An LLM-Based Approach to the Creation of an Arabic Offensive Language Lexicon from Annotated Corpora
 
 This report details the creation of a comprehensive, categorized lexicon of offensive, vulgar, and slur terms in Arabic. The methodology utilized a novel approach, leveraging the analytical power of Large Language Models (LLMs) to extract specific offensive terms from existing, academically-vetted datasets.
 
@@ -68,6 +68,29 @@ The datasets used as the foundation for this extraction methodology are publicly
     * Link: \`https://www.kaggle.com/datasets/haithemhermessi/arabic-levantine-hate-speech-detection\`
 
 
+## Key Scientific References for Offensive Language Taxonomy
+
+Here are several foundational scientific papers that specifically discuss the *categorization* (taxonomy) of offensive language and hate speech, including the specific datasets you provided.
+
+* **1. Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017). "Automated Hate Speech Detection and the Problem of Offensive Language."**
+    * **Relevance to Categorization:** This is one of the most cited papers in the field. Its primary contribution was demonstrating the critical difference between **general offensive language** (like profanity, my "Explicit Profanity" category) and actual **hate speech** (targeted slurs, my "Slurs" category). This paper justifies the need for categorization to separate targeted harm from general vulgarity.
+
+* **2. Zampieri, M., et al. (2019). "SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval)."**
+    * **Relevance to Categorization:** This paper defines the most widely used operational taxonomy in NLP competitions. It proposes a three-level categorization model that has become a standard:
+        * **Level A:** Offensive vs. Not-Offensive.
+        * **Level B:** Targeted vs. Untargeted Offense (justifying the split between personal insults and group slurs).
+        * **Level C:** Target Identification (categorizing *who* is being attacked: Individual, Group, or Other).
+
+* **3. Ousidhoum, N., et al. (2019). "Multilingual and Multi-Aspect Hate Speech Analysis." (The MLMA dataset paper you provided).**
+    * **Relevance to Categorization:** The title itself confirms this. This paper is built entirely around "Multi-Aspect" analysis, which *is* categorization. It provides an academic framework for sorting hate speech by its specific target or theme, such as **ethnicity, religion, gender,** and **disability**, providing a direct scholarly basis for the "Slurs" category.
+
+* **4. Samia, H., et al. (2021). "Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language." (The Let-Mi dataset paper you provided).**
+    * **Relevance to Categorization:** This paper is a "deep dive" reference. It academically justifies treating **misogyny** as its own distinct, high-priority category of offense, rather than lumping it in with general abuse. This supports the creation of specific categories like "Explicit Sexual Insults" and "Gendered Slurs," as these terms are the linguistic markers of the misogyny they studied.
+
+* **5. Mubarak, H., Darwish, K., & Magdy, W. (2017). "Abusive Language Detection on Arabic Social Media."**
+    * **Relevance to Categorization:** This is a key paper focusing specifically on Arabic. The authors created a detailed dataset annotated not just as "abusive" but also for *sub-types*, including **profanity, sexually explicit** content, and **blasphemy**. This directly supports the separation of explicit religious attacks (like \`كافر\`) from sexual insults (like \`قحبه\`) and general profanity (\`خرا\`).
+
+# Offensive Word Categories
 ### 1. Explicit Profanity, Sexual Acts, and Genitalia
 (Explicit sexual acts, taboo body parts, and related slang)
 
@@ -345,3 +368,5 @@ The datasets used as the foundation for this extraction methodology are publicly
 * **يلعن / لعنة (Yilʿan / Laʿna):** (May God) curse... / A curse.
 * **يلعن أبو أمك (Yilʿan abu ummak):** "Curse your maternal grandfather."
 * **ياتك ضربة / ياتك داهية (Yātak ḍarba / Yātak dahya):** "May a strike hit you" / "May calamity take you."
+
+
