@@ -1,7 +1,5 @@
-# arabic-offensive-words
-List of Arabic offensive, vulgar, slur and profane words
-
 # An LLM-Based Approach to the Creation of an Arabic Offensive Language Lexicon from Annotated Corpora
+arabic-offensive-words: List of Arabic offensive, vulgar, slur and profane words
 
 This report details the creation of a comprehensive, categorized lexicon of offensive, vulgar, and slur terms in Arabic. The methodology utilized a novel approach, leveraging the analytical power of Large Language Models (LLMs) to extract specific offensive terms from existing, academically-vetted datasets.
 
