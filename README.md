@@ -95,7 +95,6 @@ Here are several foundational scientific papers that specifically discuss the *c
 (Explicit sexual acts, taboo body parts, and related slang)
 
 * **أحا / احه (Aha / Ehe):** An interjection of frustration/shock, considered vulgar as it allegedly mimics an orgasm.
-* **اغتصاب (Ightiṣāb):** Rape.
 * **اير / ايور (Eyr / Iyūr):** Vulgar term for penis (Singular / Plural).
 * **اجا معي / يجيب ضهرو (Ija Maʿi / Yijīb Ḍahro):** Slang phrases for "he ejaculated."
 * **بعص / بعبص (Baʿaṣ / Baʿbaṣ):** To finger (sexually).
@@ -103,13 +102,11 @@ Here are several foundational scientific papers that specifically discuss the *c
 * **بظر / زناطير (Baẓr / Zanāṭīr):** Clitoris (used vulgarly / slang variant).
 * **تجليخ / جلخ / جلق (Tajlīkh / Jalakh / Jalaq):** Slang terms for masturbation.
 * **تزغيب (Tazghīb):** Slang for penetration / to force-feed.
-* **جماع (Jimāʿ):** Coitus (used in a crude context).
 * **حلبتها / حلبتو (Ḥalabtha / Ḥalabtu):** Slang, literally "milked it" (used for masturbation or exploitation).
 * **زب / زبر / أزبار / زبي (Zib / Zubr / Azbār / Zubby):** Vulgar terms for penis (singular, variations, plural, possessive).
 * **سكس / سكسي (Sex / Sexy):** (Loanwords) Sex / Sexy.
 * **سحاق / سحاقية (Siḥāq / Siḥāqiyya):** Lesbianism / Lesbian.
 * **شرج (Sharj):** Anus.
-* **شهوة (Shahwa):** Lust.
 * **ضرب عشرة (Ḍarb ʿAshra):** Slang for male masturbation.
 * **طيز / طياز (Ṭīz / Ṭiyāz):** Vulgar term for ass/buttocks (Singular / Plural).
 * **فشّخ / مفسوخ (Fashshakh / Mafsūkh):** Crude verb: to spread the legs wide / one who is spread.
